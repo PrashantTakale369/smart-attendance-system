@@ -1,9 +1,17 @@
 // this is for your simplicity
-// Happy Coding
 
 
 numpy==1.26.3
+//pip install numpy
+
 opencv-python==4.9.0.80
+//pip install opencv-python
+
 pillow==10.2.0
+//pip install pillow
+
 pyzbar==0.1.9
+//pip install pyzbar
+
 tk==0.1.0
+//pip install tk
