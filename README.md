@@ -9,7 +9,5 @@ A Smart Attendance System using QR Code in Python is a system that uses QR codes
 
 <h1> Scan  By Using collage QR Code </h1>
 
-![Show Your QR Code](https://github.com/PrashantTakale369/smart-attendance-system/assets/147067738/e55a229e-4839-4b1c-8702-2d8f501a850b)
-
 
 
